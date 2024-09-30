@@ -48,7 +48,7 @@
     <repositories>
         <repository>
             <id>jeff-media-gbr</id>
-            <url>https://hub.jeff-media.com/nexus/repository/jeff-media-public/</url>
+            <url>https://repo.jeff-media.com/public</url>
         </repository>
         <repository>
             <id>spigot-public</id>
